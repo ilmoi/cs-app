@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cs_app.dir/counterproblem.c.o  -o cs_app 

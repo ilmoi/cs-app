@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -G "CodeBlocks - Unix Makefiles" /Users/ilja/Dropbox/c_code_samples/cs-app
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/ilja/Dropbox/c_code_samples/cs-app/cmake-build-debug
